@@ -1,64 +1,51 @@
-# Travel Guide to Bali (May 16-18, 2025)
+# Bali Travel Guide (May 2025)
 
 ## Accommodations
-Bali offers a wide range of accommodations, from luxury resorts to budget hostels. Here are some options:
-
-- **Luxury**: 
-  - **The St. Regis Bali Resort**: Known for its private beach and luxurious amenities.
-  - **Four Seasons Resort Bali at Sayan**: Offers stunning views and exceptional service.
-
-- **Mid-Range**:
-  - **Alaya Resort Ubud**: A beautiful resort with a focus on wellness and relaxation.
-  - **Bali Dynasty Resort**: Family-friendly with various activities.
-
-- **Budget**:
-  - **Pondok 233**: A cozy guesthouse with affordable prices.
-  - **The Jungle Bungalow**: A budget-friendly option with a unique experience.
+- **Types of Accommodation**: Options range from budget hostels to luxury villas. Average monthly rent is approximately:
+  - Budget: $250 - $500 (shared accommodation)
+  - Mid-range: $500 - $1,500 (private apartments or villas)
+  - Luxury: $1,500+ (high-end villas and resorts)
 
 ## Cost of Living
-Bali is generally affordable for travelers. Here’s a rough estimate of daily expenses:
-
-- **Accommodation**: $10-$300 per night (depending on the type of lodging)
-- **Food**: $2-$15 per meal (local warungs are cheaper)
-- **Transportation**: $5-$20 per day (scooter rental or taxi)
-- **Activities**: $10-$100 (depending on the activity)
+- **Monthly Expenses**:
+  - Rent: $250 - $1,500+
+  - Food: $150 - $500
+  - Transportation: $60 - $300
+  - Fitness/Social Life: $100 - $500
+- **Daily Budget**: Expect to spend around $20 - $30 for a budget trip, including accommodation and transport. For a couple, a budget of $1,000 per week is recommended.
 
 ## Visa Requirements
-As of now, Indian passport holders can enter Indonesia with a Visa on Arrival (VoA) for tourism purposes. The VoA is valid for 30 days and can be extended for another 30 days. Always check for the latest updates before traveling.
+- **Tourist Visa**: Most travelers need a visa to enter Indonesia, including Bali. You can apply for:
+  - **Visa Exempted**: Valid for 30 days, extendable once for another 30 days.
+  - **Visa on Arrival**: Available at international airports, valid for 30 days, can be extended for another 30 days.
+- **Cost**: Approximately $330 for an agent to assist with the visa process.
 
 ## Transportation
-- **Getting Around**: Renting a scooter is popular and cost-effective. Alternatively, you can use taxis or ride-hailing apps like Grab.
-- **Airport Transfers**: Ngurah Rai International Airport (DPS) is the main airport. You can book a taxi or shuttle service to your accommodation.
+- **Local Transport**: Options include:
+  - Motorbike rentals (common and affordable)
+  - Taxis and ride-sharing apps (like Grab)
+  - Buses (less common but available)
+- **Accessibility**: Public transportation can be limited, so renting a scooter is a popular choice for tourists.
 
 ## Weather
-In mid-May, Bali experiences warm and humid weather, with temperatures ranging from 24°C to 32°C (75°F to 90°F). It’s generally dry, making it a great time to visit.
+- **May Weather**: May is part of the dry season, making it one of the best months to visit Bali. Expect warm temperatures averaging around 30°C (86°F) with low humidity and minimal rain.
 
 ## Local Events
-During your stay, you might find various local events and festivals. Check local listings closer to your travel date for specific events. Popular events in May include:
+- **Cultural Events**: Don’t miss the **Ubud Food Festival** from May 30th to June 1st, celebrating Indonesia's culinary heritage with various food stalls and workshops.
 
-- **Bali Arts Festival**: Celebrates Balinese culture with performances and exhibitions.
-- **Ubud Food Festival**: Showcases local cuisine and culinary talents.
+## Attractions
+1. **Ubud Monkey Forest**: A sanctuary for the Balinese long-tailed monkey and an important cultural site.
+2. **Tegallalang Rice Terraces**: Famous for their beautiful landscape and traditional Balinese irrigation system.
+3. **Tanah Lot Temple**: Iconic sea temple known for its stunning sunset views.
+4. **Mount Batur**: A popular spot for sunrise treks offering stunning views.
+5. **Ubud Art Market**: A vibrant market filled with local crafts, textiles, and souvenirs.
 
-## Itinerary Suggestions
+## Food Recommendations
+- **Kepitu Restaurant** at The Kayon Jungle Resort: Offers a dazzling view and a mix of local and international cuisine.
+- **Locavore** in Ubud: Known for its innovative approach to Indonesian ingredients and fine dining experience.
+- **Mozaic**: A fusion restaurant combining French techniques with local flavors.
+- **Warung Babi Guling Ibu Oka**: Famous for its Babi Guling, a traditional Balinese roasted suckling pig.
+- **Naughty Nuri's**: A must-visit for ribs and cocktails in a lively atmosphere.
 
-### Day 1: Arrival and Ubud Exploration
-- **Morning**: Arrive at Ngurah Rai International Airport and head to Ubud.
-- **Lunch**: Enjoy a meal at **Warung Babi Guling Ibu Oka**, famous for its Balinese roast pork.
-- **Afternoon**: Visit the **Ubud Monkey Forest** and explore the local art markets.
-- **Dinner**: Savor a meal at **Mozaic Restaurant Gastronomique**, offering exquisite fine dining with local ingredients.
-- **Evening**: Attend the **Ubud Traditional Dance Performance** at the Ubud Palace.
-
-### Day 2: Rice Terraces and Culinary Delight
-- **Morning**: Visit the **Tegallalang Rice Terraces** for stunning views and photo opportunities.
-- **Lunch**: Dine at **The Sari Organik**, a farm-to-table restaurant with organic dishes.
-- **Afternoon**: Take a cooking class to learn how to prepare traditional Balinese dishes.
-- **Dinner**: Experience the **Bali Seafood Market** for fresh seafood by the beach.
-- **Evening**: Relax at the beach and enjoy the sunset at **Jimbaran Bay**.
-
-### Day 3: Temple Visit and Departure
-- **Morning**: Visit the iconic **Tanah Lot Temple** for breathtaking views and cultural insights.
-- **Lunch**: Have lunch at **Bali Asli**, known for its traditional Balinese cuisine.
-- **Afternoon**: Last-minute shopping or spa treatment before heading to the airport.
-- **Departure**: Transfer back to Ngurah Rai International Airport for your flight home.
-
-Enjoy your trip to Bali!
+## Conclusion
+Bali in May 2025 offers a mix of beautiful weather, cultural experiences, and a range of accommodation options to suit different budgets. Make sure to plan your visa requirements ahead of time and consider local transportation options for a smooth travel experience. Enjoy the unique food offerings, local attractions, and vibrant events during your stay!

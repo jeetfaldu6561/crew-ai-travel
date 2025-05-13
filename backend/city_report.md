@@ -1,40 +1,37 @@
-# Travel Guide to Bali (May 16 - May 18, 2025)
+# Bali Travel Guide (May 2025)
 
-## 1. Accommodations
-Bali offers a wide range of accommodations from luxury resorts to budget hostels. Some popular areas to consider are:
+## Accommodations
+- **Types of Accommodation**: Options range from budget hostels to luxury villas. Average monthly rent is approximately:
+  - Budget: $250 - $500 (shared accommodation)
+  - Mid-range: $500 - $1,500 (private apartments or villas)
+  - Luxury: $1,500+ (high-end villas and resorts)
 
-- **Seminyak**: Known for upscale hotels and vibrant nightlife.
-- **Ubud**: Perfect for those seeking a tranquil retreat surrounded by nature.
-- **Kuta**: Famous for its beaches and budget-friendly options.
+## Cost of Living
+- **Monthly Expenses**:
+  - Rent: $250 - $1,500+
+  - Food: $150 - $500
+  - Transportation: $60 - $300
+  - Fitness/Social Life: $100 - $500
+- **Daily Budget**: Expect to spend around $20 - $30 for a budget trip, including accommodation and transport. For a couple, a budget of $1,000 per week is recommended.
 
-**Recommended Hotels:**
-- **Luxury**: The Mulia, Nusa Dua; Four Seasons Resort, Ubud.
-- **Mid-Range**: The Haven Suites Bali Berawa; Ubud Village Resort & Spa.
-- **Budget**: Capsule Hotel Bali; Puri Garden Hotel & Hostel.
+## Visa Requirements
+- **Tourist Visa**: Most travelers need a visa to enter Indonesia, including Bali. You can apply for:
+  - **Visa Exempted**: Valid for 30 days, extendable once for another 30 days.
+  - **Visa on Arrival**: Available at international airports, valid for 30 days, can be extended for another 30 days.
+- **Cost**: Approximately $330 for an agent to assist with the visa process.
 
-## 2. Cost of Living
-Bali is relatively affordable compared to many Western destinations. Here’s a rough estimate of daily expenses:
+## Transportation
+- **Local Transport**: Options include:
+  - Motorbike rentals (common and affordable)
+  - Taxis and ride-sharing apps (like Grab)
+  - Buses (less common but available)
+- **Accessibility**: Public transportation can be limited, so renting a scooter is a popular choice for tourists.
 
-- **Accommodation**: $10 - $300 (depending on type)
-- **Food**: $1 - $10 (local warungs to fine dining)
-- **Transportation**: $5 - $20 (scooter rental or taxi)
-- **Activities**: $5 - $50 (temple visits, tours)
+## Weather
+- **May Weather**: May is part of the dry season, making it one of the best months to visit Bali. Expect warm temperatures averaging around 30°C (86°F) with low humidity and minimal rain.
 
-## 3. Visa Requirements
-As of now, Indian citizens can enter Indonesia for tourism purposes with a visa on arrival for 30 days, which can be extended once for another 30 days. Ensure your passport is valid for at least 6 months from the date of entry.
+## Local Events
+- **Cultural Events**: May is a vibrant month in Bali with various local festivals and ceremonies. Specific events can vary yearly, so checking local listings closer to your travel date is advisable.
 
-## 4. Transportation
-- **Airport Transfer**: Ngurah Rai International Airport (DPS) is the main airport. Taxis and private transfers are available.
-- **Local Transport**: Renting a scooter is popular and affordable. Alternatively, use ride-hailing apps like Grab or Gojek for car and bike rides.
-
-## 5. Weather
-May is a great time to visit Bali as it falls in the dry season. Expect warm temperatures ranging from 24°C to 32°C (75°F to 90°F) with low humidity. Occasional rain showers may occur, but they are generally brief.
-
-## 6. Local Events
-During your visit, check for local events such as:
-- **Bali Arts Festival**: Celebrating Balinese culture and arts (usually in June, but check for specific events in May).
-- **Nyepi Day**: A day of silence and reflection (dates vary, but it’s worth checking if it falls during your stay).
-
-Make sure to explore local markets, traditional dances, and culinary experiences to immerse yourself in Balinese culture.
-
-Enjoy your trip to Bali!
+## Conclusion
+Bali in May 2025 offers a mix of beautiful weather, cultural experiences, and a range of accommodation options to suit different budgets. Make sure to plan your visa requirements ahead of time and consider local transportation options for a smooth travel experience.

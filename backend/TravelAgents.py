@@ -16,7 +16,7 @@ guide_expert = Agent(
     backstory="A local expert passionate about sharing city experiences.",
     tools=[search_web_tool],
     verbose=True,
-    max_iter=3,
+    max_iter=5,
     llm=ChatOpenAI(model="gpt-4o-mini", temperature=0.8),
     allow_delegation=False,
 )
@@ -27,7 +27,7 @@ location_expert = Agent(
     backstory="A seasoned traveler who knows everything about different cities.",
     tools=[search_web_tool],  
     verbose=True,
-    max_iter=3,
+    max_iter=5,
     llm= ChatOpenAI(model="gpt-4o-mini", temperature=0.4),
     allow_delegation=False,
 )
@@ -38,7 +38,7 @@ planner_expert = Agent(
     backstory="An expert in planning seamless travel itineraries.",
     tools=[search_web_tool],
     verbose=True,
-    max_iter=3,
+    max_iter=5,
     llm=ChatOpenAI(model="gpt-4o-mini", temperature=0.1),
     allow_delegation=False,
 )
