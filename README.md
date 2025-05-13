@@ -33,10 +33,6 @@ data.**
 
 - **Live Search: Integrated using GoogleSerperAPI:**
 
-**python**
-
-**CopyEdit**
-
 **GoogleSerperAPI(num_results=10, verbose=True)**
 
 - **Wrapped as LangChain tools, used within CrewAI agents.**
@@ -101,7 +97,7 @@ data.**
 
 **🛠️ Complete Tech Stack**
 
-![Alt Text](frontend/images/Flowchart.jpg)
+![Alt Text](frontend/images/Flowchart.jpeg)
 
   -----------------------------------------------------------------------
   **Layer**            **Tools/Frameworks**
