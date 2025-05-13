@@ -97,7 +97,7 @@ data.**
 
 **🛠️ Complete Tech Stack**
 
-![Alt Text](frontend/images/Flowchart.jpeg)
+![Alt Text](Images/Flowchart.jpeg)
 
   -----------------------------------------------------------------------
   **Layer**            **Tools/Frameworks**
