@@ -1,8 +1,5 @@
 **🧭 TravelGenie**
 
-**\
-📽️ Demo Video: *(Replace with actual link)***
-
 **🎯 Project Goal**
 
 **To develop an AI-powered Travel Planning application that provides
@@ -104,6 +101,8 @@ data.**
 
 **🛠️ Complete Tech Stack**
 
+![Alt Text](images/Flowchart.jpg)
+
   -----------------------------------------------------------------------
   **Layer**            **Tools/Frameworks**
   -------------------- --------------------------------------------------
@@ -123,6 +122,9 @@ data.**
   **Output Format**    **Markdown (.md), PDF export (via html2pdf.js)**
   -----------------------------------------------------------------------
 
+# Demo Video:
+
+Demo link: https://drive.google.com/file/d/1tTo8NUt2O8PZsqNt1YVLdtR-IdyoJ0sM/view?usp=drive_link
 
 **🗂️ Project Structure**
 
