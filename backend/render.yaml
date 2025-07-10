@@ -7,4 +7,4 @@ services:
     buildCommand: pip install -r requirements.txt
     startCommand: uvicorn main:app --host 0.0.0.0 --port 10000
     runtime:
-      python_version: 3.10
+      python_version: 3.12.4
